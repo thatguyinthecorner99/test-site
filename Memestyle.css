@@ -1,0 +1,39 @@
+
+body {
+
+	
+
+}
+
+/* Header 1 style */
+
+h1 {
+	background-image: url("images/background.png");
+	background-color: #2c1515;
+	text-align: center;
+	font-size: 80px;
+	color: white;
+	margin-top: -10px;
+	margin-left: -10px;
+	margin-right: -10px;
+	font-family: "bauhaus 93 regular"
+}
+
+/* Paragraph style */
+
+p {
+ 	background: white;
+}
+
+.tight-background {
+  	display: inline-block;
+	margin-right: 700px;
+	margin-left: 10px;
+	margin-top: -20px;
+	font-size: 28px;
+	border-style: dashed;
+	line-height: 28px;
+	line-width: 30px;
+	font-family: corbel
+
+}
