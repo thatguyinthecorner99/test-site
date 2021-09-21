@@ -1,4 +1,11 @@
-
+@font-face {
+  font-family: bauhaus93;
+  src: url(fonts/BAUHS93.TTF);
+}
+@font-face {
+  font-family: corbel;
+  src: url(fonts/corbel.TTF);
+}
 body {
 
 	
@@ -16,7 +23,7 @@ h1 {
 	margin-top: -10px;
 	margin-left: -10px;
 	margin-right: -10px;
-	font-family: "bauhaus 93 regular"
+	font-family: "bauhaus93"
 }
 
 /* Paragraph style */
